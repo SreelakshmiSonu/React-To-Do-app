@@ -17,7 +17,7 @@ Simple inline styling for fast prototyping
 
 1.Clone the repository or copy the component into your project.
 
-git clone https://github.com/your-username/react-todo-app.git
+git clone https://github.com/SreelakshmiSonu/React-To-Do-app.git
 
 2.Navigate to the project directory:
 
