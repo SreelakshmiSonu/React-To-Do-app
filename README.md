@@ -14,6 +14,7 @@ Uses React hooks (useState) for state management
 Simple inline styling for fast prototyping
 
 📦 Installation
+
 1.Clone the repository or copy the component into your project.
 
 git clone https://github.com/your-username/react-todo-app.git
